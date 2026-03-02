@@ -1,4 +1,4 @@
-# DerivAPI
+#api.flex.site
 
 Async Websocket API for deriv-app
 
